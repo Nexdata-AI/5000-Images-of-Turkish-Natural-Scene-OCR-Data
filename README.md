@@ -2,6 +2,7 @@
 
 ## Description
 5,000 Turkish natural scenarios OCR data include a variety of natural scenarios and multiple shooting angles. For annotation, quadrilateral or polygon bounding box annotation and transcription for the texts were annotated in the data. This data can be used for tasks such as the Turkish language OCR.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1697?source=Github
 
 ## Specifications
