@@ -1,0 +1,109 @@
+{
+    "info": {
+        "height": 4032,
+        "width": 3024,
+        "depth": 3
+    },
+    "dataList": [
+        {
+            "id": 1,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    525,
+                    1170
+                ],
+                [
+                    608,
+                    1174
+                ],
+                [
+                    609,
+                    1309
+                ],
+                [
+                    497,
+                    1306
+                ]
+            ],
+            "properties": {
+                "ocr": "5."
+            }
+        },
+        {
+            "id": 2,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    465,
+                    1624
+                ],
+                [
+                    2866,
+                    1871
+                ],
+                [
+                    2854,
+                    1997
+                ],
+                [
+                    451,
+                    1743
+                ]
+            ],
+            "properties": {
+                "ocr": "Belirli bir noktadan sonra artık geriye dönüş yoktur. İşte"
+            }
+        },
+        {
+            "id": 3,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    448,
+                    1763
+                ],
+                [
+                    1594,
+                    1891
+                ],
+                [
+                    1586,
+                    2009
+                ],
+                [
+                    434,
+                    1883
+                ]
+            ],
+            "properties": {
+                "ocr": "bu noktaya erişmek gerekir."
+            }
+        },
+        {
+            "id": 4,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    1526,
+                    233
+                ],
+                [
+                    1945,
+                    265
+                ],
+                [
+                    1921,
+                    354
+                ],
+                [
+                    1466,
+                    328
+                ]
+            ],
+            "properties": {
+                "ocr": "Aforizmalar"
+            }
+        }
+    ]
+}

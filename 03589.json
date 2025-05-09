@@ -1,0 +1,84 @@
+{
+    "info": {
+        "height": 1920,
+        "width": 1080,
+        "depth": 3
+    },
+    "dataList": [
+        {
+            "id": 1,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    267,
+                    1079
+                ],
+                [
+                    903,
+                    977
+                ],
+                [
+                    906,
+                    1012
+                ],
+                [
+                    271,
+                    1112
+                ]
+            ],
+            "properties": {
+                "ocr": "\"Başlarken yalnızsın, bitirdiğinde daha da yalnız.\""
+            }
+        },
+        {
+            "id": 2,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    689,
+                    1058
+                ],
+                [
+                    910,
+                    1024
+                ],
+                [
+                    915,
+                    1057
+                ],
+                [
+                    694,
+                    1087
+                ]
+            ],
+            "properties": {
+                "ocr": "Hasan Ali Toptaş"
+            }
+        },
+        {
+            "id": 3,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    703,
+                    1564
+                ],
+                [
+                    745,
+                    1557
+                ],
+                [
+                    750,
+                    1581
+                ],
+                [
+                    707,
+                    1587
+                ]
+            ],
+            "properties": {
+                "ocr": "101"
+            }
+        }
+    ]
+}

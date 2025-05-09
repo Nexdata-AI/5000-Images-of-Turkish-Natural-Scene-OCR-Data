@@ -1,0 +1,134 @@
+{
+    "info": {
+        "height": 1080,
+        "width": 1080,
+        "depth": 3
+    },
+    "dataList": [
+        {
+            "id": 1,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    33,
+                    320
+                ],
+                [
+                    1036,
+                    284
+                ],
+                [
+                    1038,
+                    340
+                ],
+                [
+                    34,
+                    390
+                ]
+            ],
+            "properties": {
+                "ocr": "Aklınıza gelen güzel şeyleri dillendirin"
+            }
+        },
+        {
+            "id": 2,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    392,
+                    396
+                ],
+                [
+                    667,
+                    384
+                ],
+                [
+                    667,
+                    430
+                ],
+                [
+                    393,
+                    440
+                ]
+            ],
+            "properties": {
+                "ocr": "Bakarsınız"
+            }
+        },
+        {
+            "id": 3,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    428,
+                    478
+                ],
+                [
+                    633,
+                    469
+                ],
+                [
+                    633,
+                    522
+                ],
+                [
+                    427,
+                    529
+                ]
+            ],
+            "properties": {
+                "ocr": "Yol olur,"
+            }
+        },
+        {
+            "id": 4,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    405,
+                    561
+                ],
+                [
+                    665,
+                    552
+                ],
+                [
+                    665,
+                    609
+                ],
+                [
+                    407,
+                    616
+                ]
+            ],
+            "properties": {
+                "ocr": "Niyet olur,"
+            }
+        },
+        {
+            "id": 5,
+            "shapeType": "tetragon",
+            "coordinates": [
+                [
+                    432,
+                    641
+                ],
+                [
+                    645,
+                    633
+                ],
+                [
+                    645,
+                    679
+                ],
+                [
+                    434,
+                    682
+                ]
+            ],
+            "properties": {
+                "ocr": "Hallolur."
+            }
+        }
+    ]
+}
